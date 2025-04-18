@@ -13,6 +13,7 @@ Predicts student grades using linear regression and random forests.
 ```bash
 pip install -r requirements.txt
 python grade_predictor.py
+
 ## Blog Post  
 I wrote a detailed article about this project:  
 🔗 [How I Built a Student Grade Predictor as a Teacher](https://your-blog-url.com)  
